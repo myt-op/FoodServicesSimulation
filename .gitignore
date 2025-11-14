@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Composer（今後使うなら）
+vendor/
+
+# Environment
+.env
